@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @serkansarp
 - 👀 I’m interested in developing C / C++ and developing myself to the other software languages, algorithms.
 - 🌱 I’m currently learning C++/OOP and practicing hard.
-- 💞️ I am not currently seeking collaboration, sorry. Just developing myself.
+- 💞️ I am not currently seeking collaboration, sorry. Just improving myself.
 - 📫 You can reach me via my Linkedin profile.
 
 <!---
