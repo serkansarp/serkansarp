@@ -1,11 +1,16 @@
 @serkansarp<br>
-C | C++ | C# Software Developer
+C | C++ | C# .NET Software Developer
+
+  
+
 ---
-- Enhancing myself on algorithmic logic and C# .NET Framework.
-- Collecting my C# practices into one project repository: [My C# Practices].
-- Finished learning C++/object-oriented programming skills. Most of my C++/OOP practices can be seen on [my gists]</a>.
-- Enthusiastic about pursuing a software developer position within a dynamic software development company. Can work at office, hybrid or remote in Ankara/Turkey, remote-first hybrid for others to work and enchance myself faster.
-- Continue my education at Anadolu University, Computer Programming.
+- I have developed projects using C, C++, and C# .NET. Currently, I am focusing more on creating projects with C#.
+- I have proficiency level higher than beginner in these programming languages.
+- I have grasped the concept of OOP and I continue to improve his problem-solving and algorithmic skills by developing projects using different data structures.
+- You can find my C# practices into one project repository: [My C# Practices].
+- Most of my C++/OOP practices can be seen on [my gists]</a>.
+- Enthusiastic about pursuing a software developer position within a dynamic software development company.
+- My education continues at Anadolu University, Computer Programming.
 - You can reach me via my [Linkedin profile].
 
 [My C# Practices]: <https://github.com/serkansarp/C-Sharp-Pratiklerim>
