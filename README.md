@@ -1,7 +1,5 @@
 @serkansarp<br>
-C | C++ | C# .NET Software Developer
-
-  
+C# .NET Software Developer | Proficient in C and C++
 
 ---
 - I have developed projects using C, C++, and C# .NET. Currently, I am focusing more on creating projects with C#.
