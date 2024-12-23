@@ -1,5 +1,5 @@
 @serkansarp<br>
-C# .NET Software Developer | Familiaw with C and C++
+C# .NET Software Developer | Familiar with C, C++ and Python
 
 ---
 - I have developed projects using C, C++, and C# .NET. Currently, I am focusing more on creating projects with C#.
