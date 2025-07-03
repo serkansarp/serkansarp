@@ -1,19 +1,10 @@
 @serkansarp<br>
-C# .NET Software Developer | Familiar with C, C++ and Python
-
 ---
-- I have developed projects using C, C++, and C# .NET. Currently, I am focusing more on creating projects with C#.
-- I have proficiency level higher than beginner in these programming languages.
-- I have grasped the concept of OOP and I continue to improve his problem-solving and algorithmic skills by developing projects using different data structures.
-- You can find my C# practices into one project repository: [My C# Practices].
-- Most of my C++/OOP practices can be seen on [my gists]</a>.
-- Enthusiastic about pursuing a software developer position within a dynamic software development company.
-- My education continues at Anadolu University, Computer Programming.
-- You can reach me via my [Linkedin profile].
+I started my programming adventure with C and C++ and have been continuing with C# and Python in recent years. I can also use HTML, PHP and MySQL. In addition, I can use MS Excel with VBA and have intermediate knowledge of Adobe Photoshop.
 
-[My C# Practices]: <https://github.com/serkansarp/C-Sharp-Pratiklerim>
-[my gists]: <https://gist.github.com/serkansarp>
-[Linkedin profile]: <https://www.linkedin.com/in/serkansarp>
+I have a B2 level command of English. Over time, I have focused on 2D game production with Unity as a hobby.
+
+I am eager to gain new experiences in a dynamic and innovative company environment.
 
 <!---
 serkansarp/serkansarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
